@@ -77,6 +77,7 @@ platforms:
 languages:
   - "Spanish: native"
   - "English: improving — technical reading & writing"
+  - "French: conversational"
   - "German: improving — currently A2"
 ```
 
