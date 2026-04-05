@@ -12,6 +12,7 @@
 ### Jesús Quintero Priego
 
 `Backend Development` · `Ethical Hacking` · `Systems`
+<div align="center">
 
 [![DAW Student](https://img.shields.io/badge/DAW-Student_2026-8B0000?style=flat-square&logo=academia&logoColor=white)](https://github.com/JesusQP10)
 [![Location](https://img.shields.io/badge/📍-Spain-333333?style=flat-square)](https://github.com/JesusQP10)
