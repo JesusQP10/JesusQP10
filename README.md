@@ -57,7 +57,8 @@
 
 ```yaml
 status: "DAW Student — Graduating June 2026"
-background: "Frontend trained, Backend & Security by choice"
+background: "Ex-Recon TAR (TEAR — Spanish Naval Infantry) · Backend & Frontend trained · Security by choice"
+
 training:
   - Backend APIs with Spring Boot + PostgreSQL
   - Offensive security tooling in Python & Go  # self-taught
