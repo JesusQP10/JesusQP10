@@ -87,6 +87,7 @@ languages:
 | [`Wifi-Analyzer-CLI`](https://github.com/JesusQP10/Wifi-Analyzer-CLI) | Real-time Wi-Fi spectrum analysis | `Python` `CLI` |
 | [`StealthStorage`](https://github.com/JesusQP10/StealthStorage) | Privacy-focused asset optimization tool | `Python` `Steganography` |
 | [`GymTracker`](https://github.com/JesusQP10/gymtracker) | Fullstack workout tracking application | `Node.js` `Express` `MongoDB` |
+| [`Moodle-FileAnalyzer`](https://github.com/JesusQP10/moodle-fileanalyzer) | Malware scanner plugin for Moodle (multi-engine + quarantine dashboard) | `PHP` `Moodle` `Security` `ClamAV` `VirusTotal` |
 
 <br>
 
