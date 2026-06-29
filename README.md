@@ -5,7 +5,7 @@
 `Backend Development` · `Ethical Hacking` · `Systems`
 
 
-[![DAW Student](https://img.shields.io/badge/DAW-Student_2026-8B0000?style=flat-square&logo=academia&logoColor=white)](https://github.com/JesusQP10)
+[![DAW Student](https://img.shields.io/badge/DAW-8B0000?style=flat-square&logo=academia&logoColor=white)](https://github.com/JesusQP10)
 [![Location](https://img.shields.io/badge/📍-Spain-333333?style=flat-square)](https://github.com/JesusQP10)
 [![Focus](https://img.shields.io/badge/🔒-Backend_&_Cybersecurity-1a1a1a?style=flat-square)](https://github.com/JesusQP10)
 [![Self-Taught](https://img.shields.io/badge/🧠-Self--taught_Security-333333?style=flat-square)](https://github.com/JesusQP10)
