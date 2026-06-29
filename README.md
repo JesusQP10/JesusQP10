@@ -16,7 +16,7 @@
 
 <br>
 
-> *DAW graduate with frontend knowledge, but my real focus is backend engineering and cybersecurity. I study offensive security on my own time — building tools, breaking boxes, and learning how systems fail.*
+> *DAW with frontend knowledge, but my real focus is backend engineering and cybersecurity. I study offensive security on my own time — building tools, breaking boxes, and learning how systems fail.*
 
 <br>
 
