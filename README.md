@@ -56,7 +56,7 @@
 ### `>_ Current Focus`
 
 ```yaml
-status: "DAW Student — Graduating June 2026"
+status: Backend Developer
 background: "Ex-Recon TAR (TEAR — Spanish Naval Infantry) · Backend & Frontend trained · Security by choice"
 
 training:
